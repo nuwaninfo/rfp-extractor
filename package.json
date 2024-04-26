@@ -1,0 +1,12 @@
+{
+  "name": "rfp_extractor",
+  "version": "1.0.0",
+  "description": "This is to extract text from pdf/wors/image",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuwan",
+  "license": "MIT"
+}
